@@ -1,6 +1,4 @@
 # Artificial-Neural-network-to-co2-emission-prediction
-
-<br>
 <br>co2 emission prediction using pytorch 
 <br><br><br>
 <br>input:7 node
