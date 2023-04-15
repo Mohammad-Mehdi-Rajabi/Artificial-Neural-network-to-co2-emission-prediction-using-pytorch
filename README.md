@@ -1,10 +1,9 @@
 # Artificial-Neural-network-to-co2-emission-prediction
 <br>co2 emission prediction using pytorch 
-<br><br><br>
+<br><br>
 <br>input: 7 node
 <br>one hidden layer: 15 node
-<br>output: 1 node
-<br><br><br>
+<br>output: 1 node<br><br>
 <br>hidden layer activation function: parametric ReLU with negative_slope= 0.3
 <br>output lyer activation function: linear
 
